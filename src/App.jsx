@@ -1,4 +1,4 @@
-import { Canvas, useFrame } from "@react-three/fiber";
+import { Canvas } from "@react-three/fiber";
 import "./App.css";
 import { useState } from "react";
 import { OrbitControls } from "@react-three/drei";
